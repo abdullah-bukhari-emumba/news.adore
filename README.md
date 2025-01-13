@@ -1,3 +1,6 @@
+
+![News_Collector](https://github.com/user-attachments/assets/a4b702af-16c2-41a4-9b82-86292b140270)
+
 # News Aggregator Frontend
 
 A modern news aggregator that pulls articles from various sources and displays them in a clean, easy-to-read format. Built with React, TypeScript, and Vite.
